@@ -15,7 +15,7 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
+  font-size: 50%;
   font: inherit;
   vertical-align: baseline; }
 
@@ -68,7 +68,7 @@ body,
 p,
 a,
 a:hover {
-  color: #650000; }
+  color: #F78733; }
 
 a,
 a:hover {
@@ -100,7 +100,7 @@ body.page-template-page-fullsingle-me {
   font-size: 35px;
   line-height: 60px;
   letter-spacing: -0.5px;
-  color: #650000;
+  color: #F78733;
   background-image: url("../../images/background.jpg");
   background-position: center center;
   background-size: cover; }
@@ -235,19 +235,6 @@ body.page-template-page-fullsingle-me {
         -webkit-transition: 0.1s;
         transition: 0.1s; }
 
-.credit {
-  font-size: 12px;
-  line-height: 14px;
-  margin-bottom: 0;
-  -webkit-animation: fadein 8s;
-          animation: fadein 8s; }
-  .credit p.copyright {
-    font-size: 12px;
-    line-height: 14px;
-    font-weight: 400;
-    opacity: 0.4; }
-    .credit p.copyright a {
-      color: #999999; }
 
 body.page-template-page-fullsingle-me.me-video {
   background-image: none; }
