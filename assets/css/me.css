@@ -15,7 +15,7 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 50%;
+  font-size: 35%;
   font: inherit;
   vertical-align: baseline; }
 
@@ -108,11 +108,11 @@ body.page-template-page-fullsingle-me {
   background-position: center center;
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
-    margin-bottom: 28px;
+    margin-bottom: 34px;
     color: #F78733; }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
-        font-size: 25px;
+        font-size: 27px;
         line-height: 40px; } }
 
 .fs-me {
