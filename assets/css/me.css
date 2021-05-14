@@ -15,12 +15,9 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 35%;
+  font-size: 50%;
   font: inherit;
   vertical-align: baseline; }
-
-html { overflow-y: scroll; }
-body { position: absolute; }
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -100,7 +97,7 @@ body.page-template-page-fullsingle-me {
   background-color: #141414;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  font-size: 25px;
+  font-size: 35px;
   line-height: 60px;
   letter-spacing: -0.5px;
   color: #F78733;
@@ -108,11 +105,11 @@ body.page-template-page-fullsingle-me {
   background-position: center center;
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
-    margin-bottom: 34px;
+    margin-bottom: 28px;
     color: #F78733; }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
-        font-size: 27px;
+        font-size: 32px;
         line-height: 40px; } }
 
 .fs-me {
