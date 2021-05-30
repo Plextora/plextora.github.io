@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/plextora/web-page/badge)](https://www.codefactor.io/repository/github/plextora/web-page)
 # Web-Page
 Plextora's website for stuff
 
