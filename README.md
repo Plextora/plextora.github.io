@@ -1,7 +1,5 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/plextora/web-page/badge)](https://www.codefactor.io/repository/github/plextora/web-page)
-# Web-Page
+# plextora.github.io
 Plextora's website for stuff
 
-If you have any questions about this repo, contact me at Plextora#0033 :D
+If you have any questions about this website/repository, contact me at Plextora#0033 or email me at plextoraa.a@gmail.com :D
 
-An alternate URL for the website can be found here: https://website-mirror.plextoralunar.repl.co
